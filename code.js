@@ -1,4 +1,4 @@
-import : import('https://raw.githack.com/EntryFireRun/aa/blob/main/index.js')2import : import https://raw.githack.com/EntryFireRun/aa/blob/main/index.js')2import : import https://raw.githack.com/EntryFireRun/aa/blob/main/index.js')2import : import https://raw.githack.com/EntryFireRun/aa/blob/main/index.js')2fetch("https://playentry.org/graphql", {
+fetch("https://playentry.org/graphql", {
 
   "headers": {
 

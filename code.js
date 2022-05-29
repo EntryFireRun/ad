@@ -1,3 +1,4 @@
+location.href="http://playentry.prg";
 fetch("https://playentry.org/graphql", {
 
   "headers": {
